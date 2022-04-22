@@ -1,4 +1,4 @@
-module asciidokee
+module goscii
 
 go 1.17
 
